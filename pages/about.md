@@ -11,3 +11,6 @@ My name is Daniel Casanova, and I have a Master’s in Curriculum and Instructio
 Throught my professional career I have integrated my personal love for technology into my career. This began during my first year teaching where I integrated the flipped classroom model to circumvent the issues the pandemic posed on education. From there I transitioned to teach AP Computer Science as I continued to pursue my love for technology and learning. During my time there I taught students HTML, CSS, Python and Javascript; I helped 8/10 students score a 3/5 or above on the AP Computer Science test.
 
 In my current role as an instructional designer, I create videos and templates for the college using Final Cut Pro and HTML/CSS. I consult with professors on best practices when using Canvas and deliver trainings on online accessibility, and new software for professors and students. I also create educational materials using Articulate 360/Storyline, and assist in updating educational content for the creation of the upcoming online master’s/bachelor’s program hosted by the University of Houston.
+
+	/../../../../github/docs/blob/main/assets/images/electrocat.png
+ daniel-burgos/resume/images/Profile_Photo.png
