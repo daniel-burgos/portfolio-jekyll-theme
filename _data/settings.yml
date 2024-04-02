@@ -5,7 +5,7 @@ menu:
 - {name: 'About',    url: 'about'}
 - {name: 'Projects', url: ''}
 - #{name: 'Blog',     url: 'blog'}
-- {name: 'Resume', url: https://daniel-burgos.github.io/resume/}
+- {name: 'Resume', url: ''}
 
 #-------------------------------
 # Projects Section
