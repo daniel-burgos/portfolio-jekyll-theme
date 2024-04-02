@@ -12,6 +12,6 @@ Throught my professional career I have integrated my personal love for technolog
 
 In my current role as an instructional designer, I create videos and templates for the college using Final Cut Pro and HTML/CSS. I consult with professors on best practices when using Canvas and deliver trainings on online accessibility, and new software for professors and students. I also create educational materials using Articulate 360/Storyline, and assist in updating educational content for the creation of the upcoming online master’s/bachelor’s program hosted by the University of Houston. To learn more about my experience, please click on my resume found below. 
 
-[Resume](https://daniel-burgos.github.io/resume/)
+# [Resume](https://daniel-burgos.github.io/resume/)
 
  ![profile picture](assets/Profile_Photo.jpg)
